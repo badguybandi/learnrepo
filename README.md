@@ -1,2 +1,2 @@
 #Learn Git
-Description
+Description of some kind.
